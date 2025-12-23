@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # AdventureWorks-Azure-DataEngineering
 End-to-end Azure data engineering pipeline using Databricks, Synapse &amp; Power BI
+=======
+>>>>>>> 2027c04 (Add end-to-end Azure data engineering project)
 # 🚀 AdventureWorks End-to-End Azure Data Engineering Project
 
 ## 📌 Overview
@@ -56,4 +59,4 @@ This project demonstrates a complete end-to-end data engineering pipeline built 
 ## 👤 Author
 **Ahanamol U**  
 📍 Aspiring Data Engineer  
-🔗 LinkedIn: <your-link-here>
+🔗 LinkedIn: www.linkedin.com/in/ahanamol-u
