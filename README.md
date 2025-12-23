@@ -37,7 +37,7 @@ This project demonstrates a complete end-to-end data engineering pipeline built 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](C:\AdventureWorks-Azure-DataEngineering\screenshots)
+![Dashboard](screenshots/powerbi_dashbord.png)
 
 ---
 
